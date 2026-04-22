@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+# AssessFlow
+Build a full-stack web application called "Online Assessment Platform" using Firebase.
